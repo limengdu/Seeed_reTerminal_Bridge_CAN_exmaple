@@ -1,5 +1,8 @@
 # Seeed_reTerminal_Bridge_CAN_exmaple
-### Example C code for using the CAN on the reTerminal Bridge.
+
+![](https://files.seeedstudio.com/wiki/reTerminal_Bridge/reTerminal_bridge.jpg)
+
+Example C code for using the CAN on the reTerminal Bridge.
 
 To install VCAN0:
 
@@ -24,3 +27,8 @@ In addition to reading, you may want to filter out CAN frames that are not relev
 ```sh
 $ gcc canfilter.c -o canfilter
 ```
+
+## Getting Started
+
+- [reTerminal Bridge wiki]()
+
